@@ -33,7 +33,7 @@ The benchmark is broken down into three primary subtasks:
 **Running the benchmark:**
 Simply execute the script to run the default set of seed problems:
 ```bash
-python 51_inequality_benchmark.py
+python core/benchmark.py
 ```
 
 ## How It Works
